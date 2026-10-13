@@ -1,6 +1,6 @@
 # [OpenRazer](https://openrazer.github.io/)
 
-A collection of Linux drivers for Razer devices - providing kernel drivers, DBus services and Python bindings to interact with the DBus interface.
+A collection of Linux drivers for Razer devices - providing kernel drivers, DBus services and Python bindings to interact with the DBus interface. the changes made were in description of compatibility patches.
 
 ## Something not working?
 
@@ -321,6 +321,7 @@ This will output something similar to this:
 | Razer Kraken Tournament Edition                               |  1532:0520  |
 | Razer Kraken Ultimate                                         |  1532:0527  |
 | Razer Kraken Kitty Edition V2                                 |  1532:0560  |
+| Razer Kraken Kitty Edition V3 Pro                             |  1532:0588  |
 | Razer Kraken Kitty Edition                                    |  1532:0F19  |
 
 ### Misc
